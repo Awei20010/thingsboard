@@ -1,6 +1,6 @@
 ## Instructions for Contributing to the Docs/Website
 
-* [Fork this repository](https://help.github.com/articles/fork-a-repo/)
+* [分叉该版本库](https://help.github.com/articles/fork-a-repo/)
 * [Deploy the site locally](#deployment-of-the-site-locally)
 * [Deploy the site in docker](#deployment-of-the-site-in-docker)
 * Add your changes
